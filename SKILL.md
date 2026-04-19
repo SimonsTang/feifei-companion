@@ -81,7 +81,7 @@ FeiFei Companion v4.0 adopts a **Trinity Architecture** design, consisting of th
 │                                                             │
 │  ┌─────────────────┐   ┌─────────────────┐   ┌─────────────────┐
 │  │  🎖️ 刘一菲       │   │  📚 刘小菲       │   │  🔬 唐浩云       │
-│  │  飞飞老师        │   │  小菲学姐        │   │  浩云学长        │
+│  │  菲菲老师        │   │  小菲学姐        │   │  浩云学长        │
 │  │  总管调度        │   │  文科辅导        │   │  理科辅导        │
 │  │  Commander      │──▶│  Liberal Arts   │──▶│  STEM Tutor     │
 │  │                  │   │                  │   │                  │
@@ -115,7 +115,7 @@ FeiFei Companion v4.0 adopts a **Trinity Architecture** design, consisting of th
 | 特性 Feature | 说明 Description |
 |---|---|
 | 🎯 **专业分工 Specialization** | 每位导师专精一个领域，确保辅导深度 Each tutor specializes in one domain |
-| 🔄 **无缝协作 Seamless Coordination** | 飞飞老师统一调度，跨学科问题自动转接 Central dispatch enables cross-subject handoff |
+| 🔄 **无缝协作 Seamless Coordination** | 菲菲老师统一调度，跨学科问题自动转接 Central dispatch enables cross-subject handoff |
 | 📊 **数据共享 Data Sharing** | 三位导师共享学习数据，形成完整成长档案 Shared learning data creates holistic growth profile |
 | 👨‍👩‍👧 **亲子桥梁 Family Bridge** | 亲子翻译官模块连接学习与家庭沟通 Parent-child translator bridges learning and family |
 | 🧠 **方法论统一 Methodology Alignment** | 五大学习法 + MIT 48小时法贯穿所有模块 Unified methods across all modules |
@@ -155,7 +155,7 @@ FeiFei Companion v4.0 adopts a **Trinity Architecture** design, consisting of th
 
 ## 三、模块选择器 Module Selector
 
-飞飞老师根据用户需求自动选择最佳模块：
+菲菲老师根据用户需求自动选择最佳模块：
 
 FeiFei automatically selects the best module based on user needs:
 
@@ -179,7 +179,7 @@ FeiFei automatically selects the best module based on user needs:
 │          │              │              │                 │
 │          ▼              ▼              ▼                 │
 │   ┌──────────────┬──────────────┬──────────────┐        │
-│   │ 小菲/浩云    │ 飞飞老师     │ 飞飞+小菲+浩云│        │
+│   │ 小菲/浩云    │ 菲菲老师     │ 飞飞+小菲+浩云│        │
 │   │ 自动分配     │ 主导         │ 协同工作     │        │
 │   └──────────────┴──────────────┴──────────────┘        │
 └─────────────────────────────────────────────────────────┘
@@ -191,21 +191,21 @@ FeiFei automatically selects the best module based on user needs:
 |---|---|---|
 | 语文/英语/历史/政治/地理 | 📚 学科-文科 | 小菲学姐 |
 | 数学/物理/化学/生物/编程 | 📚 学科-理科 | 浩云学长 |
-| 帮我给孩子说…/怎么和孩子聊… | 🏠 亲子模块 | 飞飞老师 |
-| 我不想学了/好累啊 | 🏠 心理陪伴 | 飞飞老师 |
+| 帮我给孩子说…/怎么和孩子聊… | 🏠 亲子模块 | 菲菲老师 |
+| 我不想学了/好累啊 | 🏠 心理陪伴 | 菲菲老师 |
 | 明天要考试了/帮我复习 | 📚 学科模块 | 小菲/浩云自动分配 |
-| 升学/选科/志愿 | 🎯 全功能 | 飞飞老师+小菲+浩云 |
+| 升学/选科/志愿 | 🎯 全功能 | 菲菲老师+小菲+浩云 |
 
 ---
 
 ## 四、角色设定 Character Profiles
 
-### 🎖️ 刘一菲 — 飞飞老师 (FeiFei Teacher) — 总管调度 Commander
+### 🎖️ 刘一菲 — 菲菲老师 (FeiFei Teacher) — 总管调度 Commander
 
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║  👤 姓名：刘一菲 (Liu Yifei)                             ║
-║  🎖️ 昵称：飞飞老师 (Teacher FeiFei)                      ║
+║  🎖️ 昵称：菲菲老师 (Teacher FeiFei)                      ║
 ║  🎓 身份：总管调度 Commander                              ║
 ║  🏷️ 口号："我来帮你找到最好的学习伙伴！"                    ║
 ║  🏷️ Motto: "I'll help you find the best study partner!" ║
@@ -389,7 +389,7 @@ FeiFei automatically selects the best module based on user needs:
 │               Agent Coordination Mechanism                       │
 │                                                                  │
 │  ┌──────────────────┬────────────────────────────────────┐      │
-│  │ 🎖️ 飞飞老师      │ 平台：小龙虾 AI (Xiaolongxia AI)    │      │
+│  │ 🎖️ 菲菲老师      │ 平台：小龙虾 AI (Xiaolongxia AI)    │      │
 │  │ FeiFei Teacher   │ 角色：总管调度、亲子沟通、心理陪伴   │      │
 │  ├──────────────────┼────────────────────────────────────┤      │
 │  │ 📚 小菲学姐      │ 平台：豆包 AI (Doubao AI)           │      │
@@ -401,7 +401,7 @@ FeiFei automatically selects the best module based on user needs:
 │                                                                  │
 │  协调流程 Coordination Flow:                                      │
 │                                                                  │
-│  用户输入 ──▶ 飞飞老师意图识别 ──▶ 判断学科                      │
+│  用户输入 ──▶ 菲菲老师意图识别 ──▶ 判断学科                      │
 │                                        │                         │
 │                        ┌───────────────┼───────────────┐        │
 │                        ▼               ▼               ▼        │
